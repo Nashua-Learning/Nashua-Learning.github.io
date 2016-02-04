@@ -4,17 +4,17 @@ body{
     font-family:"sans-serif",Verdana;
 }
 h1{
-color:#0E6BB0;
+color:#85952D;
 
 }
 
 .main {
     height:700px;
-    background: blue; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(rgba(0,182,222,1),rgba(0,182,222,0)); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(rgba(0,182,222,1),rgba(0,182,222,0)); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(rgba(0,182,222,1),rgba(0,182,222,0)); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(rgba(0,182,222,1),rgba(0,182,222,0)); /* Standard syntax */
+    background: #BBCD38; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(187,205,56,1),rgba(187,205,56,0)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(187,205,56,1),rgba(187,205,56,0)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(187,205,56,1),rgba(187,205,56,0)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(187,205,56,1),rgba(187,205,56,0)); /* Standard syntax */
    
 }
 .content{
@@ -24,7 +24,7 @@ color:#0E6BB0;
 
 .nav ul{
     padding:10px 100px 35px 100px;
-    background-color:rgb(129,212,242);
+    background-color:#BBCD38;
 }
 
 .nav ul li{
@@ -51,7 +51,7 @@ color:#0E6BB0;
 .footer{
     height:50px;
     bottom:0px;
-    background-color:#0E6BB0;
+    background-color:#85952D;
     width:100%;
     padding-top:15px;
     color:white;
